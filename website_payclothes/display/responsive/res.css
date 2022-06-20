@@ -1,0 +1,23 @@
+@media (max-width: 768px) 
+{
+    .logo {
+        width: 60px;
+        height: auto;
+        align-items: center;
+    }
+    .menu {
+        display: none;
+    }
+    .others {
+        display: none;
+    }
+    
+}
+@media (max-width: 1024px) 
+{
+    .logo {
+        width: 80px;
+        height: auto;
+    }
+    
+}
